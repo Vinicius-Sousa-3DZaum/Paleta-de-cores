@@ -1,0 +1,22 @@
+section {
+    text-align: center;
+}
+
+section img {
+    max-width: 20000px;
+    max-height: 15000px;
+}
+
+footer .container{
+    padding: 20px;
+}
+
+footer .container {
+    text-align: center;
+    background-color: #1250A1;
+}
+
+footer .container h3 {
+    color: #fff;
+    font-size:xx-large;
+}
